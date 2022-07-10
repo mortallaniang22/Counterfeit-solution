@@ -1,0 +1,4 @@
+__pycache__
+streamlit_app
+.ipynb_checkpoints
+env
