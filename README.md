@@ -1,24 +1,20 @@
 # Counterfeit Solution with Machine Learning
 
-Implemented a non supervised algorithm (KMeans) with python and Sklearn in order to propose groups of countries according to several indicators for **international poultry meat trade**.
+Implemented a Python Machine Learning Model based on geometric dimension data of euro banknotes with Sklearn and StatsModel...
+
+**Tools**
+
+
 
 ## Data Pre-processing
+<img alt="MySQL" width="60%" src="./data/header.png" style="padding-right:10px;" />
+<img alt="MySQL" width="40%" src="./data/infos.png" style="padding-right:10px;" />
 
-Determined the indicators to consider then collected and cleaned data related from [FAOSTAT](https://www.fao.org/faostat/en/) and [World bank open data](https://donnees.banquemondiale.org/).
-- two macro-economic indicators that provide information on the country's wealth: **GDP per capita** and **GDP per capita growth**.
-- two socio-economic indicators : **Average population growth** and the **Political stability** of the country.
-- two indicators related to food availability : **Imports quantity related to the product**.
-- two criteria that provide information on the **Continent** and M**embership of the European Union**.
+Used **Linear Regression to predict missing values**.
 
-## Data Exploration
+Used a **Principal Component Analysis** to explore and understand data.
 
-Used a Principal Component Analysis to explore and understand data.
-
-**PCA** Model with sklearn.
-
-<img alt="MySQL" width="80%" src="./data/pca.png" style="padding-right:10px;" />
-
-## Clustering
+## [Analysis](./Analysis.ipynb)
 
 Used Kmeans algorith to classify.
 
