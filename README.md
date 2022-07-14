@@ -13,8 +13,7 @@ We trained the models with geometric dimension euro banknotes data.
 You can try the Logistic Regression model with this [Frontend App](https://alhasdata-fakenotes-dectector-main-ff5ra5.streamlitapp.com/) created with **Streamlit**
 
 
-#### Tools :
-
+#
 
 
 ### Pre-processing
@@ -37,4 +36,27 @@ We used a **PCA to reduce dimensions, explore and understand data**.
 ### Frontend application
 
 We create a [Frontend App](https://alhasdata-fakenotes-dectector-main-ff5ra5.streamlitapp.com/) with **Streamlit**
+
+#
+
+
+### Tools 
+
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="45px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/sklearn.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="45px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/spark.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="40px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/streamlit2.png" style="padding-right:10px;" />
+
+<img align="left" alt="MySQL" width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+
+
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+
 
