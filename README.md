@@ -40,7 +40,7 @@ We create a [Frontend App](https://alhasdata-fakenotes-dectector-main-ff5ra5.str
 #
 
 
-### Tools 
+### Tools that we used 
 
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
