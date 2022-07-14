@@ -2,7 +2,7 @@
 
 In this [Project](./Analysis.ipynb), we built a **Euro banknotes counterfeit solution**.
 
-We implemented 2 different models for to predict couterfeit:
+We implemented 2 different models:
 - 1 Supervised machine learning model : **Logistic Regression**
 - 1 Unsupervised ml model : **KMeans**
 
