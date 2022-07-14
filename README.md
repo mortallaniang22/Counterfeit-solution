@@ -1,4 +1,4 @@
-# Counterfeit Solution with Machine Learning
+## Counterfeit Solution with Machine Learning
 
 In this [Project](./Analysis.ipynb), we built a **Euro banknotes counterfeit solution**. 
 
@@ -11,7 +11,7 @@ We trained the models with geometric dimension euro banknotes data.
 <img alt="MySQL" width="60%" src="./data/header.png" style="padding-right:10px;" />
 
 
-**Tools**
+#### Tools :
 
 
 
@@ -21,15 +21,16 @@ We trained the models with geometric dimension euro banknotes data.
 
 We used **Linear Regression to predict missing values**.
 
-We used a **PCA** to reduce dimensions, explore and understand data.
+We used a **PCA to reduce dimensions, explore and understand data**.
 
-## [Analysis](./Analysis.ipynb)
+### KMeans model
 
-Used Kmeans algorith to classify.
+<img alt="MySQL" width="40%" src="./data/kmeans_report.png" style="padding-right:10px;" />
 
-**KMeans** Model with sklearn.
+### Logistic Regression model
 
-<img alt="MySQL" width="50%" src="./data/kmeans_.png" style="padding-right:10px;" />
+<img alt="MySQL" width="40%" src="./data/reglog_confusion (2).png" style="padding-right:10px;" />
+<img alt="MySQL" width="20%" src="./data/reglog_score.png" style="padding-right:10px;" />
 
 Tester l'appli: [Fake Notes Detector](https://alhasdata-fakenotes-dectector-main-ff5ra5.streamlitapp.com/)
 
