@@ -1,18 +1,27 @@
 # Counterfeit Solution with Machine Learning
 
-Implemented a Python Machine Learning Model based on geometric dimension data of euro banknotes with Sklearn and StatsModel...
+In this [Project](./Analysis.ipynb), we built a **Euro banknotes counterfeit solution**. 
+
+We implemented 2 different models for to predict couterfeit:
+- 1 Supervised machine learning model : **Logistic Regression**
+- 1 Unsupervised ml model : **KMeans**
+
+We trained the models with geometric dimension euro banknotes data.
+
+<img alt="MySQL" width="60%" src="./data/header.png" style="padding-right:10px;" />
+
 
 **Tools**
 
 
 
-## Data Pre-processing
-<img alt="MySQL" width="60%" src="./data/header.png" style="padding-right:10px;" />
+### Pre-processing
+
 <img alt="MySQL" width="40%" src="./data/infos.png" style="padding-right:10px;" />
 
-Used **Linear Regression to predict missing values**.
+We used **Linear Regression to predict missing values**.
 
-Used a **Principal Component Analysis** to explore and understand data.
+We used a **PCA** to reduce dimensions, explore and understand data.
 
 ## [Analysis](./Analysis.ipynb)
 
