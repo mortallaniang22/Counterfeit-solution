@@ -4,7 +4,7 @@ In this [Project](./Analysis.ipynb), we built a **Euro banknotes counterfeit sol
 
 We implemented 2 different models:
 - 1 Supervised machine learning model : **Logistic Regression**
-- 1 Unsupervised ml model : **KMeans**
+- 1 Unsupervised model : **KMeans**
 
 We trained the models with geometric dimension euro banknotes data.
 
