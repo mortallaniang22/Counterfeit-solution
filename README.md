@@ -35,7 +35,7 @@ We used a **PCA to reduce dimensions, explore and understand data**.
 
 ### Frontend application
 
-We create a [Frontend App](https://alhasdata-fakenotes-dectector-main-ff5ra5.streamlitapp.com/) with **Streamlit**
+We create a [Frontend App](https://alhasdata-fakenotes-dectector-main-ff5ra5.streamlitapp.com/) with **Streamlit** to test the logistic regression model.
 
 #
 
